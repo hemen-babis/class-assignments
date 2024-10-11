@@ -1,0 +1,4 @@
+Hemn;Babs;0141057;helrmen@gmail.com;3
+Alex;Smith;503-222-4444;alex.smith@gmail.com;0
+Bob;Smith;503-111-3333;bob.smith@yahoo.com;2
+Anna;White;503-222-1111;annaw@gmail.com;1
